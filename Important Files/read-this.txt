@@ -1,0 +1,1 @@
+This will be the temporary directory where your selected files will be transfered and encrypted. You can choose your desired directory name if you don't want the 'Important Files' directory name.
