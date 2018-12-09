@@ -3,3 +3,4 @@ Simple File Encryption using Fernet Cryptography module in Python. The script co
 
 # NOTE
 If you have tried already this script and you encounter the drag the key.key file, the input there should be enclosed in a double qoutes, or if you don't want then you can still modify the py file if you want.
+And also you have to install the fernet cryptography module by using pip or any source of installation to be able to use it in python, and also some more requirements if there are still errors encountered.
